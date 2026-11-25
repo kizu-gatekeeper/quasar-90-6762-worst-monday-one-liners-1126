@@ -5,7 +5,7 @@ Writes one line (at most 140 characters) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 import os
 
-LINE = "My worst Monday: I woke up with 4,000 unread emails, and every single one was from me, sent Friday, marked urgent."
+LINE = "Monday woke me with 4,000 unread emails, every one sent by Friday-me and marked urgent; Friday-me has been blocked."
 MAX_CHARS = 140
 
 
